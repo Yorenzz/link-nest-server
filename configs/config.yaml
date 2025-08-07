@@ -1,0 +1,11 @@
+server:
+  port: ":8080"
+database:
+  host: "localhost"
+  port: "5432"
+  user: "user"
+  password: "password"
+  dbname: "clipboard_sync"
+  sslmode: "disable"
+
+
